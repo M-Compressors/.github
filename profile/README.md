@@ -10,6 +10,7 @@ Our goal is simple: **build fast, safe, and efficient compression and decompress
 
 - **[mbrotli](https://github.com/M-Compressors/mbrotli)** — Brotli compression and decompression in safe Rust. Streaming, parallel compression, and lots of performance tuning.
 - **[mzstd](https://github.com/M-Compressors/mzstd)** — Zstandard compression and decompression in safe Rust, with byte-identical encoding and parallel compression.
+- **[mopenzl](https://github.com/M-Compressors/mopenzl)** — OpenZL compression and decompression in safe Rust, with byte-identical encoding and parallel compression.
 - **[ngx_mbrotli](https://github.com/M-Compressors/ngx_mbrotli)** — Brotli for NGINX, powered by Rust. Supports multithreaded compression using NGINX thread pools.
 - **[ngx_mzstd](https://github.com/M-Compressors/ngx_mzstd)** — Zstandard for NGINX. Same multithreaded goodness, different algorithm.
 - **[borrowed-buf](https://github.com/M-Compressors/borrowed-buf)** — A tiny Rust library for working with uninitialized buffers safely and efficiently on stable Rust.
