@@ -8,6 +8,7 @@ Our goal is simple: **build fast, safe, and efficient compression and decompress
 
 ### 🚀 Our projects
 
+- **[mbook](https://github.com/M-Compressors/mbook)** — Modern e-book format with Markdown, AVIF and OpenZL compression: 4× smaller than EPUB, opens in 0.1 ms, decodes only what's on screen. Library, converter and reader app in safe Rust.
 - **[mbrotli](https://github.com/M-Compressors/mbrotli)** — Brotli compression and decompression in safe Rust. Streaming, parallel compression, and lots of performance tuning.
 - **[mzstd](https://github.com/M-Compressors/mzstd)** — Zstandard compression and decompression in safe Rust, with byte-identical encoding and parallel compression.
 - **[mopenzl](https://github.com/M-Compressors/mopenzl)** — OpenZL compression and decompression in safe Rust, with byte-identical encoding and parallel compression.
